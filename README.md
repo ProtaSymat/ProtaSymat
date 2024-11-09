@@ -1,4 +1,4 @@
-<img src="images/cover.png" alt="Symat">
+<img src="images/cover.jpg" alt="Symat">
 
 # Hi, I'm Symat! 
 
