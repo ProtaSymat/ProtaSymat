@@ -16,6 +16,8 @@ Discover how I can bring your vision to life, creating a web experience that is 
 <div align="center">
 
 ![](https://img.shields.io/badge/OS-Linux-06480A?style=flat-square&logoColor=ffffff&logo=linux)
+![](https://img.shields.io/badge/OS-Windows-06480A?style=flat-square&logoColor=ffffff&logo=windows)
+![](https://img.shields.io/badge/OS-MacOs-06480A?style=flat-square&logoColor=ffffff&logo=MACOS)
 ![](https://img.shields.io/badge/Editor-VS_Code-06480A?style=flat-square&logoColor=ffffff&logo=visualstudiocode)
 ![](https://img.shields.io/badge/Design-Figma-06480A?style=flat-square&logoColor=ffffff&logo=figma)
 ![](https://img.shields.io/badge/Code-CSS-06480A?style=flat-square&logoColor=ffffff&logo=css3)
